@@ -1,0 +1,17 @@
+.task-done{
+  background-color: rgb(156 163 175);
+  text-decoration: line-through;
+  box-shadow: none;
+}
+.task-done:hover{
+  box-shadow: none;
+  transform: translate(0);
+  transition-duration: 0s;
+}
+
+/* hover:-translate-y-1 duration-150 */
+  /* 161 161 170 zinc*/  
+
+  /* 148 163 184 slate */
+
+  /* 156 163 175 gray */
